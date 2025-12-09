@@ -1,6 +1,6 @@
 # Shimmer-Effect
 
-# 👻 Ghost.js (Adaptive Skeleton Loader)
+#  Ghost.js (Adaptive Skeleton Loader)
 
 > A lightweight, zero-dependency JavaScript library that automatically converts any website layout into a modern **Skeleton Loading Screen**.
 
