@@ -1,6 +1,6 @@
 # Shimmer-Effect
 
-# 👻 GhostLoader.js (Adaptive Skeleton Loader)
+# 👻 Ghost.js (Adaptive Skeleton Loader)
 
 > A lightweight, zero-dependency JavaScript library that automatically converts any website layout into a modern **Skeleton Loading Screen**.
 
@@ -8,7 +8,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-Animations-blue?style=for-the-badge&logo=css3)
 ![Size](https://img.shields.io/badge/Size-2KB-green?style=for-the-badge)
 
-**GhostLoader.js**, web sayfanızın DOM yapısını otomatik olarak tarar, görselleri, metinleri ve butonları algılar ve internet hızı ne olursa olsun kullanıcıya pürüzsüz bir **Shimmer (Parıltı) Efekti** sunar.
+**Ghost.js**, web sayfanızın DOM yapısını otomatik olarak tarar, görselleri, metinleri ve butonları algılar ve internet hızı ne olursa olsun kullanıcıya pürüzsüz bir **Shimmer (Parıltı) Efekti** sunar.
 
 ---
 
@@ -39,5 +39,5 @@ Projeyi indirin ve `hayalet.js` dosyasını projenizin ana dizinine atın. Ardı
     <title>My Website</title>
     
     <!-- CSS dosyalarınızdan SONRA, diğer scriptlerden ÖNCE ekleyin -->
-    <script src="hayalet.js"></script>
+    <script src="ghost.js"></script>
 </head>
