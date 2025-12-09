@@ -28,7 +28,7 @@
 *   **⏱️ Smart Buffer:** Site tamamen yüklendikten (`window.onload`) sonra 1 saniyelik estetik bir geçiş süresi tanır.
 
 ---
-**Websitemizden örnek görseller;
+*   **Websitemizden örnek görseller;
 <img width="1906" height="935" alt="resim" src="https://github.com/user-attachments/assets/0bb79747-0119-4e4b-adb7-109aefc4e0ca" />
 
 <img width="1901" height="927" alt="resim" src="https://github.com/user-attachments/assets/c8e4ccb7-2d0e-4b7b-81e4-4c36086b9da1" />
